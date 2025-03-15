@@ -35,30 +35,30 @@ Las Bases de datos tienen un gran inpacto a nivel empresaria y son considerados 
 
 ## Tipos de Datos
 
-• INT o INTEGER – Números enteros.
-• DOUBLE – Números con decimales.
-• CHAR – Cadenas de texto de tamaño fijo.
-• VARCHAR – Cadenas de texto de tamaño variable.
-• TINYINT – Utilizado como boolean
-• TEXT – Cadena de texto sin tamaño
-• DATE – Fecha 9999/12/31
-• DATETIME – Fecha con hora 9999/12/31 00:00:00
+- INT o INTEGER – Números enteros.
+- DOUBLE – Números con decimales.
+- CHAR – Cadenas de texto de tamaño fijo.
+- VARCHAR – Cadenas de texto de tamaño variable.
+- TINYINT – Utilizado como boolean
+- TEXT – Cadena de texto sin tamaño
+- DATE – Fecha 9999/12/31
+- DATETIME – Fecha con hora 9999/12/31 00:00:00
 
 ## LLave Primaria o Primary Key
 
-• Una clave primaria o primary key se utiliza para
+- Una clave primaria o primary key se utiliza para
 identificar de forma única a cada fila de una tabla.
-• Es necesaria en una tabla cuando se realizan
+- Es necesaria en una tabla cuando se realizan
 bases de datos relacionales.
-• Se define en una columna de la tabla, la cual
+- Se define en una columna de la tabla, la cual
 tendrá los datos únicos para identificar a la fila.
 
 ## Llave Foraneas o Foreign Keys
 
-• La clave foránea identifica una columna o grupo
+- La clave foránea identifica una columna o grupo
 de columnas en una tabla que se refiere a una
 columna o grupo de columnas en otra tabla
 
-• Las columnas en las tablas referidas deben ser la
+- Las columnas en las tablas referidas deben ser la
 clave primaria u otra clave candidata en la tabla
 referenciada.
